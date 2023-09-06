@@ -1,0 +1,88 @@
+
+
+.navbar-brand img{
+    height: 2em;
+    margin-left: 1em;
+}
+
+.active a{
+
+    border-bottom: .3rem solid blue;
+
+}
+.btn-dark{
+    width: 8em;
+    height: 2.8em;
+}
+.right h1{
+    font-size:3em;
+}
+
+.nav-item a:hover{
+                    
+    border-bottom: .3rem solid blue;
+
+}
+.card-img-top{
+    height: 7rem;
+}
+
+.card1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .card1 img {
+    width: 30%;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: calc(0.25rem - 1px);
+  }
+.btn-primary{
+  width: 10em;
+  height: 3em;  
+  font-weight: 600;
+  font-size: large;  
+}
+.img2 img{
+
+    height: 40em;
+
+}
+section{
+    width: 100%;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+body{
+    
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      
+
+}
+.card3 .card-img-top{
+    height: 11em;
+}
+.card3{
+    border-radius: 2em;
+    border: 1px solid black;
+    height: 25em;
+    margin-left: 4em;
+
+}
+
+.right-content img{
+    height: 30em;
+    width: 60em;
+}
+.mid{
+    background-color: rgb(14, 17, 75);
+}
+ul{
+    margin-left: 2em;
+}
